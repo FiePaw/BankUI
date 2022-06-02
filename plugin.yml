@@ -1,0 +1,17 @@
+---
+main: FiePaw\BankUI\BankUI
+name: BankUI
+version: 2
+api: 4.0.0
+Author: FiePaw
+depend:
+- EconomyAPI
+commands:
+  bank:
+    description: Membuka Tabungan Bank
+    permission: bankui.admin
+permissions:
+  bankui.admin:
+    description: Permission to view other players transactions
+    default: op
+...
