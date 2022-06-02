@@ -1,4 +1,4 @@
-# BankBCAUI
+# BankBCA UI
 
 - This plugin allows players to store their money in a bank.
 
